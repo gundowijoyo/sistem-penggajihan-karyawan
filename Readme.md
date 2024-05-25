@@ -45,3 +45,22 @@ Pastikan Anda telah menginstal compiler C++ di sistem Anda. Untuk Linux dan Mac,
 4. Keluar
 Masukkan pilihan: 
 </pre>
+
+## Struktur Program 
+
+<pre>
+   Struktur Program
+Program ini menggunakan struktur data sederhana untuk menyimpan informasi karyawan. Berikut adalah penjelasan singkat dari setiap bagian program:
+
+1. Struktur Karyawan: Menyimpan data karyawan, termasuk ID, nama, jam kerja, gaji per jam, potongan, dan bonus.
+   
+2. Fungsi tambahKaryawan: Menambahkan data karyawan baru ke dalam daftar.
+   
+3. Fungsi hitungGajiBersih: Menghitung gaji bersih karyawan.
+
+4. Fungsi tampilkanSlipGaji: Menampilkan slip gaji untuk karyawan berdasarkan ID.
+   
+5. Fungsi laporanBulanan: Menampilkan laporan bulanan dari semua karyawan.
+   
+6. Fungsi main: Menampilkan menu utama dan memproses pilihan pengguna.
+</pre>
