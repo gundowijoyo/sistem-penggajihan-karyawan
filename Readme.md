@@ -21,5 +21,27 @@ Pastikan Anda telah menginstal compiler C++ di sistem Anda. Untuk Linux dan Mac,
 
 1. **Clone repository ini:**
    ```sh
-   git clone https://github.com/username/payroll-system.git
-   cd payroll-system
+   git clone https://github.com/guns-joy/sistem-penggajihan-karyawan.git
+   ```
+2. **Masuk direktori**
+  ```sh 
+ cd penggajihan-karyawan
+   ```
+3. **Kompilasi program**
+   ```sh
+   g++ payroll_system -o payroll_system
+   ```
+4. **Jalankan program**
+   ```sh
+   ./payroll_system
+   ```
+## Preview Menu 
+
+<pre>
+   Sistem Penggajian Karyawan
+1. Tambah Karyawan
+2. Tampilkan Slip Gaji
+3. Laporan Bulanan
+4. Keluar
+Masukkan pilihan: 
+</pre>
