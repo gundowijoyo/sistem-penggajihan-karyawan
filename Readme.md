@@ -29,7 +29,7 @@ Pastikan Anda telah menginstal compiler C++ di sistem Anda. Untuk Linux dan Mac,
    ```
 3. **Kompilasi program**
    ```sh
-   g++ payroll_system -o payroll_system
+   g++ payroll_system.cpp -o payroll_system
    ```
 4. **Jalankan program**
    ```sh
